@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """2D matrix rotation"""
 
-
 def rotate_2d_matrix(matrix):
     """
     Rotates matrix
